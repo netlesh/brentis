@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<haberler>
+	<haber>
+		<baslik>
+		Haber Başlığı
+		</baslik>
+		<icerik>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum metus nulla, eget fermentum nulla. Vivamus scelerisque lorem eget mi blandit eu iaculis eros ultricies. Maecenas interdum tortor non dui placerat ultricies. Nulla neque mi, posuere id luctus sit amet, convallis non urna. Fusce eu erat vel dolor ullamcorper dictum ac quis augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec in nisl augue. Nullam id justo in orci cursus ornare. Quisque sed libero ac magna luctus feugiat sed eget felis. Donec hendrerit lobortis enim sit amet blandit. 
+
+Nullam tincidunt, magna et euismod posuere, erat diam lobortis lectus, id viverra nibh massa eget mauris. Nulla in nisl vitae dui commodo commodo. Aenean dolor lacus, venenatis sit amet ultrices quis, malesuada eget massa. Sed sit amet sem velit. Nunc ac dapibus turpis. Cras sed ante a sapien dignissim feugiat vulputate vitae velit. Aenean eget egestas nisi. Donec a dui metus, id congue urna. Sed eget dolor felis, eu sagittis urna. In non arcu nec est vestibulum egestas fermentum ut libero. Aenean commodo lectus quis erat rhoncus a condimentum purus adipiscing. Donec tempus nisi et nunc semper gravida. Ut nec lectus libero. Sed suscipit, risus eget facilisis vestibulum, sem lectus consequat felis, vel adipiscing risus sapien semper arcu 
+		</icerik>
+		<resim>
+		image/hbr/deniz.jpg
+		</resim>
+	</haber>
+</haberler>
